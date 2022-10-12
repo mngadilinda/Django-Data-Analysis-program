@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+
+
+<div class="analysis container">
+    <div class="files">
+        <div>
+            <label for="formFileLg" class="form-label"> .csv or .xlsx file</label>
+            <input class="form-control form-control-lg" id="formFileLg" type="file">
+        </div>
+    </div>
+    <div class="types container">
+        <ul>
+            <!--<li><a href="#" class="btn btn-outline-info">PRESCRIPTIVE</a></li>-->
+            <li>
+                <a href="#" class="btn btn-outline-primary">DESCRIPTIVE</a>
+                <p>Descriptive statistics summarizes or describes the characteristics of a data set. Descriptive statistics consists of three basic categories of measures: measures of central tendency, measures of variability (or spread), and frequency distribution. Measures of central tendency describe the center of the data set (mean, median, mode). Measures of variability describe the dispersion of the data set (variance, standard deviation).</p><br>
+                <p>Definition from <a href="https://www.investopedia.com/terms/d/descriptive_statistics.asp">INVESTOPEDIA</a></p>
+            </li>
+            <li>
+                <a href="#" class="btn btn-outline-success">PREDICTIVE</a>
+                <p>Predictive analytics is the use of data, statistical algorithms and machine learning techniques to identify the likelihood of future outcomes based on historical data. The goal is to go beyond knowing what has happened to providing a best assessment of what will happen in the future.</p><br>
+                <p>Definition from<a href="https://www.sas.com/en_za/insights/analytics/predictive-analytics.html">SAS</a></p>
+            </li>
+        </ul>
+    </div>
+</div>
+
+
+{% endblock content %}
