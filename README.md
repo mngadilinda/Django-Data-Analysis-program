@@ -13,3 +13,7 @@ this is the home page
 this is the analysis interface
 ![Screenshot from 2022-10-13 01-35-27](https://user-images.githubusercontent.com/100442560/195467384-6d603697-5a7c-4594-b459-1a77dd008a5b.png)
 ![Screenshot from 2022-10-13 01-35-39](https://user-images.githubusercontent.com/100442560/195467397-868eb5b5-bc6c-44c8-b244-c40270328646.png)
+
+
+I am still writing the logic and analysis code 
+
