@@ -7,13 +7,14 @@ knowledge to utilize current data analysis tools like python pandas, R-studio or
 This software aims to help a person with litte or no knowledge of data analysis
 
 this is the home page
-![Screenshot from 2022-10-13 01-34-49](https://user-images.githubusercontent.com/100442560/195467357-44cb861c-856b-4e40-848a-b6a735f3b594.png)
 
-![Screenshot from 2022-10-13 01-35-14](https://user-images.githubusercontent.com/100442560/195467370-176d60c7-bb53-4b36-9e6b-18aea9537afe.png)
-this is the analysis interface
-![Screenshot from 2022-10-13 01-35-27](https://user-images.githubusercontent.com/100442560/195467384-6d603697-5a7c-4594-b459-1a77dd008a5b.png)
-![Screenshot from 2022-10-13 01-35-39](https://user-images.githubusercontent.com/100442560/195467397-868eb5b5-bc6c-44c8-b244-c40270328646.png)
+![Screenshot from 2022-10-31 03-25-02](https://user-images.githubusercontent.com/100442560/198913225-d19f0e53-c434-444e-a3b3-388b6929951f.png)
+![Screenshot from 2022-10-31 03-21-30](https://user-images.githubusercontent.com/100442560/198913045-f856ef6e-a2eb-4f8a-b74c-1d2c74fdea88.png)
 
-
-I am still writing the logic and analysis code 
+![Screenshot from 2022-10-31 03-21-36](https://user-images.githubusercontent.com/100442560/198913073-8ab22bbc-2177-4876-8b05-d22010ad0be3.png)
+![Screenshot from 2022-10-31 03-21-39](https://user-images.githubusercontent.com/100442560/198913080-6a491465-da12-4852-8caa-9fa4b23c51bb.png)
+The Analysis page 
+![Screenshot from 2022-10-31 03-22-05](https://user-images.githubusercontent.com/100442560/198913081-f44c7734-6d33-4ca7-befe-cf0efd24673b.png)
+This is where we'll get the analysis report and be able to download a report document
+![Screenshot from 2022-10-31 03-22-16](https://user-images.githubusercontent.com/100442560/198913091-967f39a0-ae37-4a45-a91e-a40995584cbc.png)
 
