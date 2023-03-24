@@ -1,4 +1,4 @@
-# AnalysisTool
+# Django - Data Analysis software
 
 AM BUILDING A DATA ANALYSIS TOOL
 
